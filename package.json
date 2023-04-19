@@ -1,0 +1,25 @@
+{
+  "name": "markup_text_editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enliberte/markup_text_editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enliberte/markup_text_editor/issues"
+  },
+  "homepage": "https://github.com/enliberte/markup_text_editor#readme",
+  "dependencies": {
+    "electron": "^24.1.2",
+    "marked": "^4.3.0"
+  }
+}
