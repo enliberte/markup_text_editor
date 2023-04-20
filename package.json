@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/enliberte/markup_text_editor#readme",
   "dependencies": {
+    "@electron/remote": "^2.0.9",
     "electron": "^24.1.2",
     "marked": "^4.3.0"
   }
